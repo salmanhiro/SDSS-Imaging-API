@@ -13,14 +13,18 @@ Run the `app.py` with `python app.py` and then insert the desired parameters.
 
 # Example: M31
 
-To acquire M31 image, which is close in extragalactic scale. 
+To acquire M31 image, which is very close in extragalactic scale. 
 
 ```
-
+python app.py 
+>>> RA and dec in decimal [RA] [DE] : 10.6847 41.268
+>>> Enter the image scale (float, default 1): 20
+>>> Enter the image dimension (int, default 200 px): 
+>>> img_RAJ_10.6847_DEJ_41.268.jpg  downloaded
 ```
 
 Here you go!
-
+[M31](img_RAJ_10.6847_DEJ_41.268.jpg)
 
 
 # Reference
