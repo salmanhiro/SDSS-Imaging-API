@@ -5,11 +5,18 @@ Image API implementation for acquiring SDSS image based on coordinates
 
 First, look for any catalogue for object coordinate, in example [Simbad](https://simbad.u-strasbg.fr/simbad/sim-fbasic).
 For acquiring SDSS DR16 image from `SDSS Navigate`, several parameters required:
-* **Coordinate** of `RA` and `DEC` (currently only available on decimal)
+* **J2000 Equatorial Coordinate** of `RA` and `DEC` (currently only available on decimal)
 * **Image Scale** of SDSS (default value `1`)
 * **Image Dimension** , with default value 200 x 200 px.
 
 Run the `app.py` with `python app.py` and then insert the desired parameters. 
+
+# Checklist
+
+- [x] Initial API
+- [ ] Add J2000 coordinate in DD:MM:SS or DD MM SS
+- [ ] Add read from `.txt`
+- [ ] Add spectra acquisition
 
 # Example: M31
 
