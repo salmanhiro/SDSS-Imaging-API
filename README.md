@@ -4,7 +4,7 @@ Image API implementation for acquiring SDSS image based on coordinates
 # Usage
 
 First, look for any catalogue for object coordinate, in example [Simbad](https://simbad.u-strasbg.fr/simbad/sim-fbasic).
-For acquiring SDSS DR16 image from `SDSS Navigate`, several parameters required:
+For acquiring SDSS DR16 image from [SDSS Navigate](http://skyserver.sdss.org/dr16/en/tools/chart/navi.aspx?), several parameters required:
 * **J2000 Equatorial Coordinate** of `RA` and `DEC` (currently only available on decimal)
 * **Image Scale** of SDSS (default value `1`)
 * **Image Dimension** , with default value 200 x 200 px.
