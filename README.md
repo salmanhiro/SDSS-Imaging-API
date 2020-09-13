@@ -14,7 +14,7 @@ Run the `app.py` with `python app.py` and then insert the desired parameters.
 # Checklist
 
 - [x] Initial API
-- [ ] Add J2000 coordinate in DD:MM:SS or DD MM SS
+- [ ] Add J2000 coordinate in `DD:MM:SS` or `DD MM SS`
 - [ ] Add read from `.txt`
 - [ ] Add spectra acquisition
 
