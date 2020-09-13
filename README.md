@@ -23,7 +23,8 @@ python app.py
 >>> img_RAJ_10.6847_DEJ_41.268.jpg  downloaded
 ```
 
-Here you go!
+**Here you go!**
+
 ![M31](img_RAJ_10.6847_DEJ_41.268.jpg)
 
 
