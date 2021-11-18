@@ -32,7 +32,7 @@ python app.py
 
 **Here you go!**
 
-![M31](images/img_RAJ_10.6847_DEJ_41.268.jpg)
+![M31](images/img_RAJ_179.68907119917242_DEJ_-0.4547123917554176.jpg)
 
 
 # Reference
