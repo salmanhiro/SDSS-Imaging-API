@@ -56,7 +56,7 @@ Alternatively, select **Random Object** to let the app choose a random object an
 
 **Example Result:**
 
-![M31](images/img_RA_10.6847_DE_41.268.jpg)
+![M31](images/img_RAJ_10.6847_DEJ_41.268.jpg)
 
 # Reference
 - SDSS DR16: http://skyserver.sdss.org/dr16/en/home.aspx
